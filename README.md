@@ -150,3 +150,33 @@ A snapshot of average tenure of employees across the job levels
 ![Tenure](https://github.com/user-attachments/assets/12c683c8-faf8-4da5-bec8-15636ba1048a)
 
 
+
+
+### Performance Rating
+
+
+Upon analyzing the performance rating data across genders, the following distribution was observed:
+
+
+- Rating 4: 37% of female employees and 63% of male employees
+- Rating 3: 40% of female employees and 60% of male employees
+- Rating 2: 38% of female employees and 62% of male employees
+- Rating 1: 38% of female employees and 62% of male employees
+
+  
+These findings indicate a gender disparity in performance ratings, with male employees consistently receiving higher ratings across all categories. Such disparities may be influenced by various factors, including unconscious biases in performance evaluations. Research suggests that numerical performance reviews can be biased against women, potentially due to cultural perceptions associated with rating scales.
+
+
+Snapshot of performance Rating
+
+
+![Performance rating](https://github.com/user-attachments/assets/63e22434-67df-4456-896d-1f7ea8b927f9)
+
+
+The average performance rating for female was 2.41 and the average performance rating for male was 2.42.
+
+Snapshot of average performance rating
+
+
+![Average rating](https://github.com/user-attachments/assets/c813cbe5-aeef-4dd3-a033-43555cfa1b83)
+
