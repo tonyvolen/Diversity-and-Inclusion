@@ -1,4 +1,4 @@
-# Diversity-and-Inclusion
+# Diversity and Inclusion
 
 
 ## Project Objective
