@@ -94,3 +94,13 @@ A column chart was used to represent hires across various job levels.
 ![DIVERSITY INCLUSION 2_6_2025 11_51_17 AM](https://github.com/user-attachments/assets/68e43c67-6002-4f83-9c09-946a295a2279)
 
 
+
+Overally, there was a 52% of female hires and 48% of male hires
+
+Snapshot of overal hires
+
+![overal hires](https://github.com/user-attachments/assets/c9a637f8-a75a-4dd8-83f3-627406ce1dc0)
+
+
+
+
