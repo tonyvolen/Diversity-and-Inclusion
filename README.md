@@ -152,7 +152,7 @@ A snapshot of average tenure of employees across the job levels
 
 
 
-### Performance Rating
+### 3. Performance Rating
 
 
 Upon analyzing the performance rating data across genders, the following distribution was observed:
@@ -184,7 +184,7 @@ Snapshot of average performance rating
 
 
 
-### Executive Gender Balance
+### 4. Executive Gender Balance
 
 
 An analysis of the executive gender distribution for Fiscal Year 2020 (FY20) shows that out of a total of 16 executives, only 2 (12.5%) were female, while 14 (87.5%) were male. In terms of new executive hires, all 15 hires were male, and the 2 promotions to the executive level were also exclusively male. This indicates a significant gender disparity, with no female representation among the new hires or those promoted to the executive level, suggesting possible barriers to entry for women in senior leadership roles.
@@ -196,3 +196,23 @@ A snapshot of Executive Gender Balance
 
 
 ![Executive split](https://github.com/user-attachments/assets/a10667d5-df80-4860-acf5-e4a38299db43)
+
+
+
+
+
+### 5. Age Group
+
+
+The age distribution of employees reveals a predominantly young workforce, with the majority falling within the 20-29 age group (215 employees), followed by 30-39 (161 employees) and 40-49 (64 employees). This concentration in younger age brackets suggests a dynamic and potentially innovative team, which is advantageous for industries like telecommunications that thrive on technological advancements and adaptability.
+
+However, the representation of older age groups is limited, with only 3 employees in the 60-69 range and 4 in the 50-59 range. This lack of diversity in age could lead to a shortage of experienced professionals who bring valuable industry knowledge and mentorship to the organization. 
+
+
+A snapshot of Age Group
+
+
+![Age group](https://github.com/user-attachments/assets/ba110737-7e67-483e-9307-37b68d5d291f)
+
+
+
