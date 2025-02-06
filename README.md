@@ -139,45 +139,9 @@ A line and clustered column chart was used to represent promotions across variou
 
 
 
-Upon analyzing the average tenure data visualized through a clustered bar chart, the following observations were made regarding the duration of employment for female and male employees across various job levels:
 
-#### Junior Officer Level:
 
-Female employees: 2.13 years
-
-Male employees: 2.2 years
-
-#### Senior Officer Level:
-
-Female employees: 2.29 years
-
-Male employees: 2.68 years
-
-#### Manager Level:
-
-Female employees: 2.37 years
-
-Male employees: 2.46 years
-
-#### Senior Manager Level:
-
-Female employees: 1.8 years
-
-Male employees: 2.3 years
-
-#### Director Level:
-
-Female employees: 3.4 years
-
-Male employees: 3.09 years
-
-#### Executive Level:
-
-Female employees: 3 years
-
-Male employees: 1.86 years
-
-These findings indicate that, in most job levels, male employees have a slightly longer average tenure compared to their female counterparts. Notably, at the Senior Manager level, male employees have a tenure of 2.3 years, which is 0.5 years longer than the 1.8 years observed for female employees. Conversely, at the Executive level, female employees have a tenure of 3 years, which is 1.14 years longer than the 1.86 years for male employees.
+Upon analyzing the average tenure data visualized through a clustered bar chart, the findings indicate that, in most job levels, male employees have a slightly longer average tenure compared to their female counterparts. Notably, at the Senior Manager level, male employees have a tenure of 2.3 years, which is 0.5 years longer than the 1.8 years observed for female employees. Conversely, at the Executive level, female employees have a tenure of 3 years, which is 1.14 years longer than the 1.86 years for male employees.
 
 A snapshot of average tenure of employees across the job levels
 
