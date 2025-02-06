@@ -74,6 +74,7 @@ This dashboard aims to support our telecom client in improving gender balance wi
 
 ## project Insights 
 
+### 1. Hiring
 
 
 Upon analyzing the KPI data for hires across various job levels, the following gender distribution was observed:
@@ -101,6 +102,36 @@ Snapshot of overal hires
 
 ![overal hires](https://github.com/user-attachments/assets/c9a637f8-a75a-4dd8-83f3-627406ce1dc0)
 
+
+
+
+
+### 2. Promotions
+
+
+Upon analyzing the promotion data visualized through a line and clustered column chart, the following gender distribution across job levels after fiscal year 2021 promotions was observed:
+
+- Junior Officer Level: 91 female employees and 78 male employees.
+- Senior Officer Level: 50 female employees and 46 male employees.
+- Manager Level: 25 female employees and 54 male employees.
+- Senior Manager Level: 11 female employees and 46 male employees.
+- Director Level: 4 female employees and 29 male employees.
+- Executive Level: 3 female employees and 16 male employees.
+  
+The line plot further revealed the following promotion rates for female employees:
+
+22% promoted to Senior Officer.
+8% promoted to Manager.
+27.27% promoted to Senior Manager.
+25% promoted to Director.
+33.33% promoted to Executive.
+
+These findings indicate a gender disparity in both the distribution of employees across job levels and the promotion rates to higher positions. Notably, the proportion of female employees decreases as the job level increases, with a significant underrepresentation at the Senior Manager, Director, and Executive levels. Additionally, the promotion rates for female employees vary across levels, suggesting potential areas for improvement in promoting gender equity within the organization.
+
+A line and clustered column chart was used to represent promotions across various job levels for Male and Female 
+
+
+![job levels after FY21 promotions](https://github.com/user-attachments/assets/c795c76e-d7eb-474a-827d-735fa93652d4)
 
 
 
