@@ -30,5 +30,20 @@ This dashboard aims to support our telecom client in improving gender balance wi
   ## Dashboard link
 
 
-- <a href = "(https://github.com/tonyvolen/Diversity-and-Inclusion/blob/main/DIVERSITY%20INCLUSION.pbix)">View Dashboard</a>
+- <a href = "https://github.com/tonyvolen/Diversity-and-Inclusion/blob/main/DIVERSITY%20INCLUSION.pbix">View Dashboard</a>
+
+
+
+## Steps followed
+
+
+- Load data into Power BI Desktop, dataset is a csv file.
+- Verified data for any missing values and anomalies and sort out the same.
+- Made sure data is  consistent and clean with respect to data types , data format and values used.
+- Merged all pivot tables into one dashboard and apply slicers to make it dynamic.
+- Navigated to the "Model" view to establish relationships between different tables.
+- Used DAX to create calculated measures for KPIs such as gender distribution, promotion rates, and turnover rates.
+- Visual filters (Slicers) were added for four fields named "Department", "Age group", "Job Level" & "Region group".
+- In the Report view, I selected and customized appropriate visualizations from the Visualizations pane to effectively represent the KPIs. This process involved tailoring each visualization to accurately display the data, ensuring clarity and alignment with the project's objectives
+  
   
