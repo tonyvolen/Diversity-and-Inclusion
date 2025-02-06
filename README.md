@@ -180,3 +180,19 @@ Snapshot of average performance rating
 
 ![Average rating](https://github.com/user-attachments/assets/c813cbe5-aeef-4dd3-a033-43555cfa1b83)
 
+
+
+
+
+### Executive Gender Balance
+
+
+An analysis of the executive gender distribution for Fiscal Year 2020 (FY20) shows that out of a total of 16 executives, only 2 (12.5%) were female, while 14 (87.5%) were male. In terms of new executive hires, all 15 hires were male, and the 2 promotions to the executive level were also exclusively male. This indicates a significant gender disparity, with no female representation among the new hires or those promoted to the executive level, suggesting possible barriers to entry for women in senior leadership roles.
+
+In Fiscal Year 2021 (FY21), the total number of executives increased to 19, with female representation rising slightly to 15.79% (3 executives), while male executives accounted for 84.21% (16 employees). Despite this modest increase in female representation, men continued to dominate the executive level. The data highlights that while there was some progress in gender diversity, the overall proportion of female executives remains low, indicating ongoing challenges for women in reaching senior leadership positions.
+
+
+A snapshot of Executive Gender Balance
+
+
+![Executive split](https://github.com/user-attachments/assets/a10667d5-df80-4860-acf5-e4a38299db43)
