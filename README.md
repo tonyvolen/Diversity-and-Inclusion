@@ -46,4 +46,22 @@ This dashboard aims to support our telecom client in improving gender balance wi
 - Visual filters (Slicers) were added for four fields named "Department", "Age group", "Job Level" & "Region group".
 - In the Report view, I selected and customized appropriate visualizations from the Visualizations pane to effectively represent the KPIs. This process involved tailoring each visualization to accurately display the data, ensuring clarity and alignment with the project's objectives
   
-  
+
+
+
+  ## Dashboard
+
+
+
+
+  ![DIVERSITY INCLUSION 2_6_2025 11_40_58 AM](https://github.com/user-attachments/assets/60334a65-569c-449f-bb22-824a9d279cb7)
+
+
+
+
+
+
+
+
+
+![DIVERSITY INCLUSION 2_6_2025 11_21_08 AM](https://github.com/user-attachments/assets/60958273-a6a3-4db3-9b8f-47010fe1e26d)
