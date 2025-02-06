@@ -54,7 +54,7 @@ This dashboard aims to support our telecom client in improving gender balance wi
 
 
 
-  ![DIVERSITY INCLUSION 2_6_2025 11_40_58 AM](https://github.com/user-attachments/assets/60334a65-569c-449f-bb22-824a9d279cb7)
+  ![DIVERSITY INCLUSION 2_6_2025 11_51_17 AM](https://github.com/user-attachments/assets/2b6ea87c-72f7-46a1-a7e7-55e71799a754)
 
 
 
@@ -64,4 +64,6 @@ This dashboard aims to support our telecom client in improving gender balance wi
 
 
 
-![DIVERSITY INCLUSION 2_6_2025 11_21_08 AM](https://github.com/user-attachments/assets/60958273-a6a3-4db3-9b8f-47010fe1e26d)
+
+![DIVERSITY INCLUSION 2_6_2025 11_49_03 AM](https://github.com/user-attachments/assets/03cfc0b8-07c1-4184-891e-5727882a2e71)
+
