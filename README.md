@@ -67,3 +67,30 @@ This dashboard aims to support our telecom client in improving gender balance wi
 
 ![DIVERSITY INCLUSION 2_6_2025 11_49_03 AM](https://github.com/user-attachments/assets/03cfc0b8-07c1-4184-891e-5727882a2e71)
 
+
+
+
+
+
+## project Insights 
+
+
+
+Upon analyzing the KPI data for hires across various job levels, the following gender distribution was observed:
+
+
+- Junior Officer Level: 63% female hires and 37% male hires.
+- Manager Level: 60% female hires and 40% male hires.
+- Senior Manager Level: 30% female hires and 70% male hires.
+- Director Level: 25% female hires and 75% male hires.
+- Executive Level: 100% male hires.
+
+  
+This data indicates a significant gender disparity, with a higher proportion of female hires at junior and manager levels, and a predominance of male hires at senior manager, director, and executive levels. Notably, the executive level comprises entirely male hires, highlighting a critical area for intervention to promote gender diversity at the top management tier.
+
+A column chart was used to represent hires across various job levels.
+
+
+![DIVERSITY INCLUSION 2_6_2025 11_51_17 AM](https://github.com/user-attachments/assets/68e43c67-6002-4f83-9c09-946a295a2279)
+
+
