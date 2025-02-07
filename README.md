@@ -1,5 +1,23 @@
 # Diversity and Inclusion
 
+## Table of Contents 
+
+- [Project Objective](#project-objective)
+- [Dataset Used](#dataset-used)
+- [Questions (KPIs)](#questions-(KPIs))
+- [Dashboard Link](#dashboard-link)
+- [Steps Followed](#steps-followed)
+- [Dashboard](#dashboard)
+- [Project Insights](#project-insights)
+- [Hiring](#hiring)
+- [Promotions](#promotions)
+- [Performance Rating](#performance-rating)
+- [Executive Gender Balance](#executive-gender-balance)
+- [Age Group](#age-group)
+- [Conclusion](#conclusion)
+- [Recommendations](#recommendations)
+
+
 
 ## Project Objective
 
@@ -34,7 +52,7 @@ This dashboard aims to support our telecom client in improving gender balance wi
 
 
 
-## Steps followed
+## Steps Followed
 
 
 - Load data into Power BI Desktop, dataset is a csv file.
@@ -72,9 +90,9 @@ This dashboard aims to support our telecom client in improving gender balance wi
 
 
 
-## project Insights 
+## Project Insights 
 
-### 1. Hiring
+###  Hiring
 
 
 Upon analyzing the KPI data for hires across various job levels, the following gender distribution was observed:
@@ -106,7 +124,7 @@ Snapshot of overal hires
 
 
 
-### 2. Promotions
+### Promotions
 
 
 Upon analyzing the promotion data visualized through a line and clustered column chart, the following gender distribution across job levels after fiscal year 2021 promotions was observed:
@@ -152,7 +170,7 @@ A snapshot of average tenure of employees across the job levels
 
 
 
-### 3. Performance Rating
+###  Performance Rating
 
 
 Upon analyzing the performance rating data across genders, the following distribution was observed:
@@ -184,7 +202,7 @@ Snapshot of average performance rating
 
 
 
-### 4. Executive Gender Balance
+###  Executive Gender Balance
 
 
 An analysis of the executive gender distribution for Fiscal Year 2020 (FY20) shows that out of a total of 16 executives, only 2 (12.5%) were female, while 14 (87.5%) were male. In terms of new executive hires, all 15 hires were male, and the 2 promotions to the executive level were also exclusively male. This indicates a significant gender disparity, with no female representation among the new hires or those promoted to the executive level, suggesting possible barriers to entry for women in senior leadership roles.
@@ -201,7 +219,7 @@ A snapshot of Executive Gender Balance
 
 
 
-### 5. Age Group
+###  Age Group
 
 
 The age distribution of employees reveals a predominantly young workforce, with the majority falling within the 20-29 age group (215 employees), followed by 30-39 (161 employees) and 40-49 (64 employees). This concentration in younger age brackets suggests a dynamic and potentially innovative team, which is advantageous for industries like telecommunications that thrive on technological advancements and adaptability.
