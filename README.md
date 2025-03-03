@@ -4,7 +4,7 @@
 
 - [Project Objective](#project-objective)
 - [Dataset Used](#dataset-used)
-- [Questions (KPIs)](#questions-(KPIs))
+- [Questions (KPIs)](#questions-kpis)
 - [Dashboard Link](#dashboard-link)
 - [Steps Followed](#steps-followed)
 - [Dashboard](#dashboard)
@@ -72,7 +72,7 @@ This dashboard aims to support our telecom client in improving gender balance wi
 
 
 
-  ![DIVERSITY INCLUSION 2_6_2025 11_51_17 AM](https://github.com/user-attachments/assets/2b6ea87c-72f7-46a1-a7e7-55e71799a754)
+ ![Diversity Inclusion 1](https://github.com/user-attachments/assets/8c2261b4-091b-47f0-96ff-a723fbbccff4)
 
 
 
@@ -83,7 +83,9 @@ This dashboard aims to support our telecom client in improving gender balance wi
 
 
 
-![DIVERSITY INCLUSION 2_6_2025 11_49_03 AM](https://github.com/user-attachments/assets/03cfc0b8-07c1-4184-891e-5727882a2e71)
+
+![Diversity Inclusion 2](https://github.com/user-attachments/assets/b7da8410-2a24-4bd1-8c15-872a1a8b7d7b)
+
 
 
 
